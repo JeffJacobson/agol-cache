@@ -24,12 +24,12 @@
   "author": "Malcolm Meyer",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "fetch-retry": "^4.0.1",
-    "gdal3.js": "^2.4.0",
-    "node-fetch": "^2.6.1",
-    "ora": "^4.0.3",
-    "winston": "^3.3.3"
+    "dotenv": "^8.6.0",
+    "fetch-retry": "^4.1.1",
+    "gdal3.js": "^2.8.1",
+    "node-fetch": "^2.7.0",
+    "ora": "^4.1.1",
+    "winston": "^3.13.1"
   },
   "nodemonConfig": {
     "ignore": [
